@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Yılmazer</h1>
-<h3 align="center">Junior Frontend Developer From Istanbul</h3>
+<h3 align="center">Hobbyist Frontend Developer From Istanbul</h3>
 
 - 🌱 I’m currently learning **Javascript & React**
 
